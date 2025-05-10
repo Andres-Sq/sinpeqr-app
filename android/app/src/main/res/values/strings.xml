@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SinpeQR</string>
+    <string name="title_activity_main">SinpeQR</string>
+    <string name="package_name">com.sinpeqr.app</string>
+    <string name="custom_url_scheme">com.sinpeqr.app</string>
+</resources>

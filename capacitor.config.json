@@ -1,0 +1,15 @@
+{
+  "appId": "com.sinpeqr.app",
+  "appName": "SinpeQR",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true,
+      "backgroundColor": "#ffffff"
+    }
+  },
+  "server": {
+    "url": "https://sinpeapp.pages.dev/?client=zharkaz",
+    "cleartext": false
+  }
+}
